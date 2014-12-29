@@ -1,0 +1,12 @@
+{
+  "name": "couchdb",
+  "version": "1.0.0",
+  "description": "Test code",
+  "author": "Oleg Maki",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.18.0",
+    "file": "^0.2.2",
+    "request": "^2.51.0"
+  }
+}
